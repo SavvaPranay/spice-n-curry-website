@@ -3,6 +3,7 @@ import { Poppins } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import Chatbot from '@/components/Chatbot';
 import { seoData, schemaData } from '@/data/business';
 
 const poppins = Poppins({
@@ -93,6 +94,7 @@ export default function RootLayout({
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
+        <Chatbot />
       </body>
     </html>
   );
