@@ -1,0 +1,87 @@
+SPICE N CURRY - IMAGES NEEDED
+==============================
+
+This file lists all images that need to be replaced/added to the website.
+Images should be placed in the public/images/ folder.
+
+MENU IMAGES (public/images/menu/)
+---------------------------------
+1. mango-lassi.jpg      - Mango lassi drink in a glass (yellow/orange yogurt drink)
+2. sweet-lassi.jpg      - Sweet lassi drink in a glass (white/creamy yogurt drink)
+3. gulab-jamun.jpg      - Gulab jamun dessert (dark brown milk dumplings in syrup)
+4. kheer.jpg            - Kheer/rice pudding (creamy white dessert with nuts)
+
+GROCERY - SPICES (public/images/grocery/)
+-----------------------------------------
+5. turmeric.jpg         - Turmeric powder (bright yellow/orange powder)
+6. cumin.jpg            - Cumin seeds (small brown elongated seeds)
+7. coriander.jpg        - Coriander powder (light brown/tan powder)
+8. garam-masala.jpg     - Garam masala spice blend (brown mixed spice powder)
+9. chili-powder.jpg     - Red chili powder (bright red powder)
+10. cardamom.jpg        - Green cardamom pods (small green pods)
+11. biryani-masala.jpg  - Biryani masala blend (brown spice mix)
+12. curry-powder.jpg    - Curry powder (yellow-brown spice blend)
+
+GROCERY - LENTILS & GRAINS (public/images/grocery/)
+---------------------------------------------------
+13. toor-dal.jpg        - Toor dal/split pigeon peas (yellow split lentils)
+14. chana-dal.jpg       - Chana dal/split chickpeas (yellow split peas)
+15. moong-dal.jpg       - Moong dal/split mung beans (small yellow lentils)
+16. masoor-dal.jpg      - Masoor dal/red lentils (orange/salmon colored lentils)
+17. chickpeas.jpg       - Kabuli chana/chickpeas (round beige/tan legumes)
+18. basmati.jpg         - Basmati rice (long white rice grains)
+19. atta.jpg            - Whole wheat flour/atta (fine brown flour)
+
+GROCERY - DAIRY (public/images/grocery/)
+----------------------------------------
+20. paneer.jpg          - Fresh paneer (white cubed cottage cheese)
+21. ghee.jpg            - Pure desi ghee (golden clarified butter in jar)
+22. yogurt.jpg          - Indian style yogurt/dahi (thick white yogurt)
+
+GROCERY - FRESH PRODUCE (public/images/grocery/)
+------------------------------------------------
+23. cilantro.jpg        - Fresh cilantro/coriander leaves (green herb bunch)
+24. mint.jpg            - Fresh mint leaves (green mint bunch)
+25. curry-leaves.jpg    - Fresh curry leaves (small dark green leaves on stem)
+26. green-chili.jpg     - Green chilies (bright green peppers)
+27. ginger.jpg          - Fresh ginger root (tan/beige knobby root)
+
+GROCERY - FROZEN (public/images/grocery/)
+-----------------------------------------
+28. frozen-paratha.jpg  - Frozen paratha package or cooked paratha
+29. frozen-samosa.jpg   - Frozen samosas or fried samosas
+30. frozen-naan.jpg     - Frozen naan bread
+
+GROCERY - BEVERAGES (public/images/grocery/)
+--------------------------------------------
+31. chai-masala.jpg     - Chai masala spice blend
+32. tea-leaves.jpg      - Indian tea leaves (Assam tea)
+33. mango-pulp.jpg      - Mango pulp (canned/packaged)
+34. rooh-afza.jpg       - Rooh Afza bottle (red rose drink)
+
+GROCERY - SNACKS (public/images/grocery/)
+-----------------------------------------
+35. bhujia.jpg          - Bikaneri bhujia (crispy yellow noodles)
+36. mixture.jpg         - Mumbai mixture (mixed savory snacks)
+37. mathri.jpg          - Mathri crackers (flaky round crackers)
+38. gulab-jamun-mix.jpg - Gulab jamun mix box
+39. soan-papdi.jpg      - Soan papdi sweet (flaky layered sweet)
+
+GROCERY - PICKLES (public/images/grocery/)
+------------------------------------------
+40. mango-pickle.jpg    - Mango pickle (yellow/brown chunky pickle)
+41. lime-pickle.jpg     - Lime pickle (green/brown pickle)
+42. tamarind-chutney.jpg - Tamarind chutney (dark brown sauce)
+43. mint-chutney.jpg    - Mint chutney (green sauce)
+
+==============================
+RECOMMENDED IMAGE SOURCES (Free):
+- Unsplash: https://unsplash.com
+- Pexels: https://pexels.com
+- Pixabay: https://pixabay.com
+
+IMAGE SPECIFICATIONS:
+- Recommended size: 800x600 pixels or larger
+- Format: JPG
+- Aspect ratio: 4:3 or 16:9 works best
+==============================
