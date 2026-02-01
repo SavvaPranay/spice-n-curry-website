@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { businessInfo } from '@/data/business';
 
@@ -55,8 +56,13 @@ export default function Header() {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-12 h-12 bg-[#FF9933] rounded-full flex items-center justify-center text-2xl group-hover:scale-110 transition-transform">
-              🍛
+            <div className="relative w-12 h-12 rounded-full overflow-hidden group-hover:scale-110 transition-transform border-2 border-[#FF9933]">
+              <Image
+                src="/images/logo.jpg"
+                alt="Spice N Curry Logo"
+                fill
+                className="object-cover"
+              />
             </div>
             <div>
               <h1 className="text-xl font-bold text-[#FF9933]">Spice N Curry</h1>
